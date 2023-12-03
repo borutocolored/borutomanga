@@ -4,5 +4,17 @@
   "artist": "@BorutoColored",
   "author": "Asad",
   "cover": "",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "1",
+      "last_updated": "1701628165",
+      "groups": {
+        "": [
+          "https://drive.google.com/file/d/1iYOcNQN5KRRzNXGq4DcQy5sf6HVeXQV-/view?usp=share_link",
+          ""
+        ]
+      }
+    }
+  }
 }
