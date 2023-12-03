@@ -3,18 +3,16 @@
   "description": "A project dedicated to coloring the entire Boruto: Two Blue Vortex manga, by the @BorutoColored team on X (formerly twitter)",
   "artist": "@BorutoColored",
   "author": "Asad",
-  "cover": "",
+  "cover": "311929.jpg",
   "chapters": {
     "1": {
       "title": "1",
       "volume": "1",
       "last_updated": "1701628165",
       "groups": {
-        "": [
-          "https://drive.google.com/file/d/1iYOcNQN5KRRzNXGq4DcQy5sf6HVeXQV-/view?usp=share_link",
-          ""
-        ]
-      }
-    }
+         "<1": "/proxy/api/imgur/chapter/2lwQfRE/"
+      },
+      "last_updated": "1616368746"
+    },
   }
 }
